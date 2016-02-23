@@ -1,0 +1,39 @@
+/* 1 */
+{
+    "_id" : ObjectId("56cbadc8569e70f462853f74"),
+    "name" : "Tim",
+    "email" : "Tim@mail.com",
+    "number" : "(444) 11-22-22"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("56cbae01569e70f462853f75"),
+    "name" : "Emily",
+    "email" : "Emily@mail.com",
+    "number" : "(423) 14-45-22"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("56cbae01569e70f462853f76"),
+    "name" : "Chan",
+    "email" : "Chan@mail.com",
+    "number" : "(133) 12-49-22"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("56cc716ef7dc2de71df464f3"),
+    "name" : "Sally",
+    "email" : "Sally@mail.com",
+    "number" : "(123) 45-43-67"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("56cc727618cdb9571e10c9a2"),
+    "name" : "Ken",
+    "email" : "Ken@mail.com",
+    "number" : "(568) 23-56-86"
+}
